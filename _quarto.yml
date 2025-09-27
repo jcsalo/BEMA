@@ -6,8 +6,8 @@ book:
   author: "Jonathan Salo"
   date: "9/27/2025"
   chapters:
-    - israel.qmd
     - index.qmd
+    - israel.qmd
     - references.qmd
 
 bibliography: references.bib
