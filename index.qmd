@@ -1,4 +1,4 @@
-# Preface {.unnumbered}
+# BEMA {.unnumbered}
 
 This is a Quarto book.
 
