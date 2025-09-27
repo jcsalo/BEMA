@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "BEMA",
     "section": "",
-    "text": "BEMA\nThis is a Quarto book. for Bema\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "BEMA\nNotes on the Christian faith from a Jewish perspective, based upon the works of rabbis such as Ray Vander Laan and Marty Solomon.\nBEMA Discipleship - Marty Solomon\nThat the World May Know - Ray Vander Laan",
     "crumbs": [
       "BEMA"
     ]
@@ -14,7 +14,27 @@
     "href": "israel.html",
     "title": "1  RVL Israel",
     "section": "",
-    "text": "2 Cities\nMashal - Hebrew Parable (Strong 4911)\nJesus stops funeral procession.- cf Elisha “A prophet has awakened in Israel”\nGezer\n4000BC Glassade\n2000BC Cannanite\n1300 DC Joshja\nCity not taken by Joshua. Egyptian king gave Gezer as dowry 950BC\nDestroyed\nDestroyed again by Babylon\nConquered 15 times in 3500 years\nDon’t weep for me, weep for yourselves. The enemies will throw your babies against the wall\nYou are a city on a hill",
+    "text": "1.1 Gezer\nMashal - Hebrew Parable (Strong 4911)\nJesus stops funeral procession.- cf Elisha “A prophet has awakened in Israel”\n4000BC Glassade\n2000BC Cannanite\n1300 DC Joshja\nCity not taken by Joshua. Egyptian king gave Gezer as dowry 950BC\nDestroyed\nDestroyed again by Babylon\nConquered 15 times in 3500 years",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>RVL Israel</span>"
+    ]
+  },
+  {
+    "objectID": "israel.html#cities",
+    "href": "israel.html#cities",
+    "title": "1  RVL Israel",
+    "section": "1.2 Cities",
+    "text": "1.2 Cities\n\nAlways found on untillable land\nReq water source - Place king can store food\nDefensive position\nPlace of safety\nRich lived in cities\nSurrounded by daughter villages\n\nDon’t weep for me, weep for yourselves. The enemies will throw your babies against the wall\nYou are a city on a hill",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>RVL Israel</span>"
+    ]
+  },
+  {
+    "objectID": "israel.html#gates",
+    "href": "israel.html#gates",
+    "title": "1  RVL Israel",
+    "section": "1.3 Gates",
+    "text": "1.3 Gates\n\nDefensive\nDefine relationship to the world\nUnusual to breach the gates\nPlace of commerce\nPlace of justice Boaz went to city gates\nLot - an elder in Sodom and Gomorrah\nCrucifixion just outside city gates",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>RVL Israel</span>"
     ]
@@ -23,30 +43,10 @@
     "objectID": "israel.html#cannanite-cosmology",
     "href": "israel.html#cannanite-cosmology",
     "title": "1  RVL Israel",
-    "section": "3.1 Cannanite cosmology",
-    "text": "3.1 Cannanite cosmology\nWorld is conflict between chaos and order (Ma’at)\nYamm is Canaanite God of primordial chaos\nGenesis - in the beginning it was chaos, and the spirit of God hovered over the earth\nPlagues: 10 gods addressed by 10 plagues\nFall: return to chaos\nJesus: I am the gate\nCare for the poor in your gate (BibleNIV?, Deuteronomy 15:7)",
+    "section": "1.4 Cannanite cosmology",
+    "text": "1.4 Cannanite cosmology\nWorld is conflict between chaos and order (Ma’at)\nYamm is Canaanite God of primordial chaos\nGenesis - in the beginning it was chaos, and the spirit of God hovered over the earth\nPlagues: 10 gods addressed by 10 plagues\nFall: return to chaos\nJesus: I am the gate\nCare for the poor in your gate (BibleNIV?, Deuteronomy 15:7)",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>RVL Israel</span>"
-    ]
-  },
-  {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "2  Introduction",
-    "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
     ]
   }
 ]
