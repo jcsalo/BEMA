@@ -3,12 +3,12 @@ project:
 
 book:
   title: "BEMA"
-  author: "Norah Jones"
+  author: "Jonathan Salo"
   date: "9/27/2025"
   chapters:
+    - israel.qmd
     - index.qmd
     - intro.qmd
-    - summary.qmd
     - references.qmd
 
 bibliography: references.bib
