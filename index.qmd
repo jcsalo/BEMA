@@ -1,9 +1,7 @@
 # BEMA {.unnumbered}
 
-This is a Quarto book. for Bema
+Notes on the Christian faith from a Jewish perspective, based upon the works of rabbis such as Ray Vander Laan and Marty Solomon.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+[BEMA Discipleship](bemadiscipleship.com) - Marty Solomon
 
-```{r}
-1 + 1
-```
+[That the World May Know](thattheworldmayknow.com) - Ray Vander Laan

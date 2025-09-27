@@ -8,7 +8,6 @@ book:
   chapters:
     - israel.qmd
     - index.qmd
-    - intro.qmd
     - references.qmd
 
 bibliography: references.bib

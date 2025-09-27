@@ -8,7 +8,7 @@ Mashal - Hebrew Parable (Strong 4911)
 
 Jesus stops funeral procession.- cf Elisha "A prophet has awakened in Israel"
 
-Gezer
+## Gezer
 
 4000BC Glassade
 
@@ -24,7 +24,7 @@ Destroyed again by Babylon
 
 Conquered 15 times in 3500 years
 
-# Cities
+## Cities
 
 - Always found on untillable land 
 - Req water source - Place king can store food 
@@ -37,7 +37,7 @@ Don't weep for me, weep for yourselves. The enemies will throw your babies again
 
 You are a city on a hill
 
-# Gates
+## Gates
 
 -   Defensive
 -   Define relationship to the world
