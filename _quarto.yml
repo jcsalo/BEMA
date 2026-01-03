@@ -7,8 +7,16 @@ book:
   date: "9/27/2025"
   chapters:
     - index.qmd
-    - israel.qmd
-    - references.qmd
+    - part: "BEMA"
+      chapters:
+      - israel.qmd
+      - prophets.qmd
+      - roman_history.qmd
+      - acts.qmd
+      - references.qmd
+    - part: "Life Church"
+      chapters:
+       - Foxes.qmd
 
 bibliography: references.bib
 
@@ -19,6 +27,3 @@ format:
       - brand
   pdf:
     documentclass: scrreprt
-
-editor: visual
-
