@@ -16,7 +16,9 @@ book:
       - references.qmd
     - part: "Life Church"
       chapters:
-       - Foxes.qmd
+      - premarital_coaching.qmd
+      - drew_foxes_questions.qmd
+      - Foxes.qmd
 
 bibliography: references.bib
 
