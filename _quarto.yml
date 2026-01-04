@@ -9,7 +9,7 @@ book:
     - index.qmd
     - part: "BEMA"
       chapters:
-      - concepts..qmd
+      - concepts.qmd
       - israel.qmd
       - prophets.qmd
       - roman_history.qmd
