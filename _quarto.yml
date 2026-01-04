@@ -22,6 +22,7 @@ book:
       - drew_foxes_questions.qmd
       - Foxes.qmd
     - part: "Jon Tyson"
+      chapters:
       - jon_tyson.qmd
 
 bibliography: references.bib
