@@ -2,7 +2,7 @@
 bibliography: references.bib
 ---
 
-# Catching Foxes - Chapter 1
+# Catching Foxes
 
 Pre-engagement counseling - start working on critical issues now, and plan to resolve them prior to engagement
 
@@ -12,7 +12,7 @@ Gives you perspective
 
 Allows you to understand each others' vulnerabilities
 
-## Personal History
+## Chapter 1 - Personal History
 
 Gospel is the power of God for salvation Rom 1:16
 
@@ -421,7 +421,7 @@ Mark 10:1
 
 1 Cor 7:10-16\
 
-## Chapter 6 - Becoming a  Husband
+## Chapter 6 - Becoming a Husband
 
 Epu 5:25 Love your wives,
 

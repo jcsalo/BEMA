@@ -9,16 +9,20 @@ book:
     - index.qmd
     - part: "BEMA"
       chapters:
+      - concepts..qmd
       - israel.qmd
       - prophets.qmd
       - roman_history.qmd
       - acts.qmd
+      - hebrews.qmd
       - references.qmd
     - part: "Life Church"
       chapters:
       - premarital_coaching.qmd
       - drew_foxes_questions.qmd
       - Foxes.qmd
+    - part: "Jon Tyson"
+      - jon_tyson.qmd
 
 bibliography: references.bib
 
