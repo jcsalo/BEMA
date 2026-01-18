@@ -7,8 +7,23 @@ book:
   date: "9/27/2025"
   chapters:
     - index.qmd
-    - israel.qmd
-    - references.qmd
+    - part: "BEMA"
+      chapters:
+      - concepts.qmd
+      - israel.qmd
+      - prophets.qmd
+      - roman_history.qmd
+      - acts.qmd
+      - hebrews.qmd
+      - references.qmd
+    - part: "Life Church"
+      chapters:
+      - premarital_coaching.qmd
+      - drew_foxes_questions.qmd
+      - Foxes.qmd
+    - part: "Jon Tyson"
+      chapters:
+      - jon_tyson.qmd
 
 bibliography: references.bib
 
@@ -19,6 +34,3 @@ format:
       - brand
   pdf:
     documentclass: scrreprt
-
-editor: visual
-
