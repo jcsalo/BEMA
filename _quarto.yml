@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "BEMA"
+  title: "Discipleship"
   author: "Jonathan Salo"
   date: "9/27/2025"
   chapters:
@@ -24,6 +24,9 @@ book:
     - part: "Jon Tyson"
       chapters:
       - jon_tyson.qmd
+    - part: "NT Wright"
+      chapters:
+      - surprised_by_hope.qmd
 
 bibliography: references.bib
 
