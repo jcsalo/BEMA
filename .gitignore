@@ -8,3 +8,6 @@
 _book/
 
 **/*.quarto_ipynb
+
+BEMA.Rproj
+.Rproj.user/
